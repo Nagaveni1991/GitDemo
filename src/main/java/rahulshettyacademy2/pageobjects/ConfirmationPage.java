@@ -29,5 +29,9 @@ public class ConfirmationPage extends AbstactComponent{
 	
 	
 	System.out.println("This is pull request");
+	System.out.println("This is pull request2");
+	System.out.println("This is pull request3");
+)
+
 
 }
