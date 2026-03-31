@@ -47,7 +47,7 @@ public class CheckOutPage extends AbstactComponent{
 		return new ConfirmationPage(driver);
 	}
 
-	
+	Sustem.out.println("This is pull request");
 	
 
 }
