@@ -58,5 +58,6 @@ public class LandingPage extends AbstactComponent{
 			// TODO Auto-generated method stub
 			//return null;
 		//}
+	System.out.println("It is GitDemo");
 	
 }
